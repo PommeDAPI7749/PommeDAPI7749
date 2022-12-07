@@ -22,5 +22,5 @@
 
 ### Mes stats GitHub
 
-[![PommeDAPI's GitHub stats](https://github-readme-stats.vercel.app/api?username=PommeDAPI7749&count_private=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![PommeDAPI's GitHub stats](https://github-readme-stats.vercel.app/api?username=PommeDAPI7749&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![PommeDAPI's GitHub stats](https://github-readme-stats.vercel.app/api?username=PommeDAPI7749&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![PommeDAPI's GitHub stats](https://github-readme-stats.vercel.app/api?username=PommeDAPI7749&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
