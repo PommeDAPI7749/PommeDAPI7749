@@ -27,4 +27,8 @@
 ### Mes dernieres activitees sur GitHub
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/AlbaNagisa/Hangman-web/pull/2) in [AlbaNagisa/Hangman-web](https://github.com/AlbaNagisa/Hangman-web)
+2. 💪 Opened PR [#2](https://github.com/AlbaNagisa/Hangman-web/pull/2) in [AlbaNagisa/Hangman-web](https://github.com/AlbaNagisa/Hangman-web)
+3. 🎉 Merged PR [#1](https://github.com/AlbaNagisa/Hangman-web/pull/1) in [AlbaNagisa/Hangman-web](https://github.com/AlbaNagisa/Hangman-web)
+4. 💪 Opened PR [#1](https://github.com/AlbaNagisa/Hangman-web/pull/1) in [AlbaNagisa/Hangman-web](https://github.com/AlbaNagisa/Hangman-web)
 <!--END_SECTION:activity-->
