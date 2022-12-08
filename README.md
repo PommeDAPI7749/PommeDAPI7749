@@ -17,12 +17,13 @@
 <img align="left" alt="Discord.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 &nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PommeDAPI7749&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### Mes stats GitHub
 
-[![PommeDAPI's GitHub stats](https://github-readme-stats.vercel.app/api?username=PommeDAPI7749&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![PommeDAPI's GitHub stats](https://github-readme-stats.vercel.app/api?username=PommeDAPI7749&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![PommeDAPI's GitHub stats](https://github-readme-stats.vercel.app/api?username=PommeDAPI7749&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Mes dernieres activitees sur GitHub
 
