@@ -17,6 +17,8 @@
 <img align="left" alt="Discord.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 &nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PommeDAPI7749&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
