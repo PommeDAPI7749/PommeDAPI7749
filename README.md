@@ -20,7 +20,7 @@
 
 
 ### 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PommeDAPI7749&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PommeDAPI7749&theme=transparent&layout=compact&border_color=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
