@@ -1,38 +1,50 @@
-### Me contacter
+<h1 align="center">Bonjour 👋, je suis PommeDAPI</h1>
+<h3 align="center">Un étudiant Francais, passionné de développement et de cybersécurité</h3>
 
-[![img_linkedin](./img/linkedin-dark.svg)](https://fr.linkedin.com/in/mayeul-boeri-a52492253#gh-dark-mode-only)
-[![img_linkedin](./img/linkedin-light.svg)](https://fr.linkedin.com/in/mayeul-boeri-a52492253#gh-light-mode-only)
-&nbsp;&nbsp;
+- 🧑🏻‍💻 Je travaille actuelement sur un projet intitule Groupie Tracker (le repo est privé) c'est un site qui récupère les infos sur des groupes de musique et leur prochaines dates et lieux de concerts.
 
-### Languages et outils
+- 🎓 Je me forme en **CyberSecurité** et en **Développement** chez *YNOV* (Ancienement Ingé sup)
 
+<h3 align="left"> 📫 Pour me contacter : </h3>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Discord.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-&nbsp;&nbsp;
+<p align="left">pommedapi-dev@gmx.fr</p>
+<p align="left"><a href="https://twitter.com/apipommed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apipommed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mayeul-boeri-a52492253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayeul-boeri-a52492253" height="30" width="40" /></a>
+<a href="https://instagram.com/_pommedapi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pommedapi_" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages, technos et logiciels maitrisés</h3>
 
-### 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PommeDAPI7749&theme=transparent&layout=compact&border_color=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">   
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+</p>
+<p align="left">
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+</p>
 
+<p align="left"> 
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+</p>
 
+<h3>Mes stats GitHub</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pommedapi7749&show_icons=true&locale=en&layout=compact" alt="pommedapi7749" /></p>
 
-### Mes stats GitHub
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pommedapi7749&show_icons=true&locale=en" alt="pommedapi7749" /></p>
 
-[![PommeDAPI's GitHub stats](https://github-readme-stats.vercel.app/api?username=PommeDAPI7749&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-### Mes dernieres activitees sur GitHub
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/AlbaNagisa/Hangman-web/pull/2) in [AlbaNagisa/Hangman-web](https://github.com/AlbaNagisa/Hangman-web)
-2. 💪 Opened PR [#2](https://github.com/AlbaNagisa/Hangman-web/pull/2) in [AlbaNagisa/Hangman-web](https://github.com/AlbaNagisa/Hangman-web)
-3. 🎉 Merged PR [#1](https://github.com/AlbaNagisa/Hangman-web/pull/1) in [AlbaNagisa/Hangman-web](https://github.com/AlbaNagisa/Hangman-web)
-4. 💪 Opened PR [#1](https://github.com/AlbaNagisa/Hangman-web/pull/1) in [AlbaNagisa/Hangman-web](https://github.com/AlbaNagisa/Hangman-web)
-<!--END_SECTION:activity-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pommedapi7749&" alt="pommedapi7749" /></p>
