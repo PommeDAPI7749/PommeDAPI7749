@@ -43,8 +43,8 @@
 </p>
 
 <h3>Mes stats GitHub</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pommedapi7749&show_icons=true&locale=en&layout=compact" alt="pommedapi7749" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pommedapi7749&show_icons=true&locale=fr&layout=compact&theme=invisible" alt="pommedapi7749" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pommedapi7749&show_icons=true&locale=en" alt="pommedapi7749" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pommedapi7749&show_icons=true&locale=fr&layout=compact&theme=invisible" alt="pommedapi7749" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pommedapi7749&" alt="pommedapi7749" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PommeDAPI7749&theme=dark&hide_border=true&locale=fr" alt="pommedapi7749" /></p>
