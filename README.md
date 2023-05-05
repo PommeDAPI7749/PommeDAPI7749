@@ -85,4 +85,4 @@
 <br>
 <h3>Mes stats GitHub</h3>
 
-![PommeDAPI7749's GitHub stats](https://github-readme-stats.vercel.app/api?username=PommeDAPI7749&count_private=true&theme=gruvbox_light) 
+![PommeDAPI7749's GitHub stats](https://github-readme-stats.vercel.app/api?username=PommeDAPI7749&count_private=true&theme=merko&hide=stars&show_icons=true&hide_title=true&disable_animations=true&rank_icon=github) 
