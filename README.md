@@ -91,5 +91,5 @@
 <h3>Mes stats GitHub</h3>
 <br>
 
-![PommeDAPI7749's GitHub stats](https://github-readme-stats.vercel.app/api?username=PommeDAPI7749&count_private=true&theme=merko&hide=stars&show_icons=true&hide_title=true&disable_animations=true&rank_icon=github) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PommeDAPI7749&layout=compact&count_private=true&theme=merko&disable_animations=true&hide_rank=true&hide_progress=true)
+![PommeDAPI7749's GitHub stats](https://github-readme-stats.vercel.app/api?username=PommeDAPI7749&count_private=true&theme=merko&hide=stars&show_icons=true&hide_title=true&disable_animations=true&&hide_rank=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PommeDAPI7749&layout=compact&count_private=true&theme=merko&disable_animations=true&hide_progress=true)
