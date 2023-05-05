@@ -83,5 +83,4 @@
 
 
 <br>
-<h3>Mes stats GitHub</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pommedapi7749&show_icons=true&locale=fr&layout=compact&bg_color=00000000&hide_border=true" alt="pommedapi7749" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PommeDAPI7749&count_private=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
