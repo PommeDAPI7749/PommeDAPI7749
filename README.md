@@ -1,16 +1,21 @@
 <h1 align="center">Bonjour 👋, je suis PommeDAPI</h1>
 <h3 align="center">Un étudiant Francais, passionné de développement et de cybersécurité</h3>
 
+<br>
+<br>
+
 - 🧑🏻‍💻 Je travaille actuelement chez WessSoft en tant que stagiaire.
 
 - 🎓 Je me forme en **CyberSecurité** et en **Développement** chez *YNOV* 
   
-<br>     
+<br>
+<br>
+
 <h3 align="justify"> 📫 Pour me contacter : </h3>
 <br>     
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/pommedapi7749)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.google.com)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayeul-boeri-a52492253)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_pommedapi_)
 
@@ -84,5 +89,6 @@
 
 <br>
 <h3>Mes stats GitHub</h3>
+<br>
 
 ![PommeDAPI7749's GitHub stats](https://github-readme-stats.vercel.app/api?username=PommeDAPI7749&count_private=true&theme=merko&hide=stars&show_icons=true&hide_title=true&disable_animations=true&rank_icon=github) 
