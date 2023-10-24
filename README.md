@@ -4,7 +4,7 @@
 <br>
 <br>
 
-- 🧑🏻‍💻 Je travaille actuelement chez WessSoft en tant que stagiaire.
+<!-- - 🧑🏻‍💻 Je travaille actuelement chez WessSoft en tant que stagiaire. -->
 
 - 🎓 Je me forme en **CyberSecurité** et en **Développement** chez *YNOV* 
   
